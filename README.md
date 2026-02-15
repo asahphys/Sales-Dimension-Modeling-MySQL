@@ -3,4 +3,5 @@ This project demonstrates an end-to-end sales analytics workflow using MySQL and
 The analysis focuses on order details, customer information, product data, and brand and category revenue contributions. Using MySQL for data preparation and Tableau for visualization, this project highlights revenue distribution patterns and provides insights into sales performance across different product segments.
 
 based on: 
+
 https://github.com/Shubham-S151/MySQL-project
